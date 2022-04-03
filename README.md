@@ -42,7 +42,7 @@ Harmony is hard but moodle helps you with named color to match your whole school
 [![Moodle Design Headers](https://i.ytimg.com/vi/1lZqWm3hHSo/hqdefault.jpg)](
 https://www.youtube.com/watch?v=1lZqWm3hHSo)
 
-*Remind your course admin to add the website colors in the mobile css file.
+*Remind your course admin to add the website colors in the mobile app css file.
 
 # Accordion
 One of my favorite tool: especially when student tend to give up when they are overwhelmed by long lists of instructions.
