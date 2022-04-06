@@ -102,6 +102,20 @@ Visual cues are so important in the visual world the student live in.
 [![Moodle Design Headers](https://i.ytimg.com/vi/Bu_yqMz0DGs/hqdefault.jpg)](
 https://www.youtube.com/watch?v=Bu_yqMz0DGs)
 
+https://fontawesome.com/v4/icons/
+
+<details>
+  <summary><b>Unfold to see links and code</b></summary>
+  
+* FontAwesome 4: https://fontawesome.com/v4/icons/
+  
+``<i class="fa fa-address-book" aria-hidden="true"></i>``
+  Although for accessibility purposes the following code would be preferable:
+``<span class="fa fa-address-book" aria-hidden="true"></span>``
+  
+  </details>
+
+
 # Colors
 Harmony is hard but moodle helps you with named color to match your whole school website.
 
