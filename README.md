@@ -18,6 +18,40 @@ So useful to describe a list of instructions, or some resources.
 [![Moodle Design Listes](https://i.ytimg.com/vi/yOdvQovYEZE/hqdefault.jpg)](
 https://www.youtube.com/watch?v=yOdvQovYEZE)
 
+
+<details>
+  <summary> <b>Unfold to see links and code</b> </summary>
+
+* Bootstrap list groups: https://getbootstrap.com/docs/4.0/components/list-group/
+
+````    
+     <ul class="list-group">
+      <li class="list-group-item active">Cras justo odio</li>
+      <li class="list-group-item">Dapibus ac facilisis in</li>
+      <li class="list-group-item">Morbi leo risus</li>
+      <li class="list-group-item">Porta ac consectetur ac</li>
+      <li class="list-group-item">Vestibulum at eros</li>
+     </ul>
+````
+
+* Bootstrap Cards Lists: https://getbootstrap.com/docs/4.0/components/card/#list-groups
+
+````
+    <div class="card" style="width: 18rem;">
+        <div class="card-header">
+          Featured
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Cras justo odio</li>
+          <li class="list-group-item">Dapibus ac facilisis in</li>
+          <li class="list-group-item">Vestibulum at eros</li>
+        </ul>
+    </div>
+    
+````
+  
+</details>
+
 # Headers
 A very nice way to display a big message about session theme or main objectives.
 
