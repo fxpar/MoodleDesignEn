@@ -88,10 +88,19 @@ https://www.youtube.com/watch?v=V4Xd8Ne2brw)
   
 * Bootstrap Buttons: https://getbootstrap.com/docs/4.0/components/buttons/
   
+Officially we can use buttons:   
 ````
     <button type="button" class="btn btn-primary">Primary</button>
     <button type="button" class="btn btn-outline-secondary">Secondary</button>
     <button type="button" class="btn btn-success">Success</button>
+````
+
+Although I would rather use links:
+    
+````
+    <a href="#" type="button" class="btn btn-primary">Primary</a>
+    <a href="#" type="button" class="btn btn-outline-secondary">Secondary</a>
+    <a href="#" type="button" class="btn btn-success">Success</a>
 ````
   
   </details>
