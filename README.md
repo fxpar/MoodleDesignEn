@@ -83,6 +83,19 @@ Very helpful to link to older activities without moving them
 [![Moodle Design Headers](https://i.ytimg.com/vi/V4Xd8Ne2brw/hqdefault.jpg)](
 https://www.youtube.com/watch?v=V4Xd8Ne2brw)
 
+<details>
+  <summary><b>Unfold to see links and code</b></summary>
+  
+* Bootstrap Buttons: https://getbootstrap.com/docs/4.0/components/buttons/
+  
+````
+    <button type="button" class="btn btn-primary">Primary</button>
+    <button type="button" class="btn btn-outline-secondary">Secondary</button>
+    <button type="button" class="btn btn-success">Success</button>
+````
+  
+  </details>
+
 # Icons
 Visual cues are so important in the visual world the student live in.
 
