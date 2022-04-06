@@ -58,6 +58,25 @@ A very nice way to display a big message about session theme or main objectives.
 [![Moodle Design Headers](https://i.ytimg.com/vi/yKut16YZv9s/hqdefault.jpg)](
 https://www.youtube.com/watch?v=yKut16YZv9s)
 
+<details>
+  <summary><b>Unfold to see links and code</b></summary>
+  
+* Bootstrap 4 Header: the fantastic Jumbotron : https://getbootstrap.com/docs/4.0/components/jumbotron/
+  
+````
+    <div class="jumbotron">
+      <h1 class="display-4">Hello, world!</h1>
+      <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+      <hr class="my-4">
+      <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+      <p class="lead">
+        <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+      </p>
+    </div>
+````
+  
+  </details>
+
 # Buttons
 Very helpful to link to older activities without moving them
 
